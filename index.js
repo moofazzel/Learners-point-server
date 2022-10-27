@@ -32,15 +32,15 @@ app.get("/checkout/:id", (req, res) => {
   res.send(selectedCourses);
 });
 
-app.get("/category/:id", (req, res) => {
-  const id = req.params.id;
-  if (id === '7') {
-    res.send(courses);
-  } else {
-    const selectedData = courses.filter((t) => t.category_id === id);
-    res.send(selectedData);
-  }
-});
+// app.get("/category/:id", (req, res) => {
+//   const id = req.params.id;
+//   if (id === '7') {
+//     res.send(courses);
+//   } else {
+//     const selectedData = courses.filter((t) => t.category_id === id);
+//     res.send(selectedData);
+//   }
+// });
 
 app.listen(port, () => {
   console.log("Learners Point Running on port", port);
