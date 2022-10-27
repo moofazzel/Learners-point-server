@@ -1,34 +1,30 @@
 [
-    {
-      "id": "01",
-      "name": "Breaking News"
-    },
-    {
-      "id": "02",
-      "name": "Regular News"
-    },
-    {
-      "id": "03",
-      "name": "International News"
-    },
-    {
-      "id": "04",
-      "name": "Sports"
-    },
-    {
-      "id": "05",
-      "name": "Entertainment"
-    },
-    {
-      "id": "06",
-      "name": "Culture"
-    },
-    {
-      "id": "07",
-      "name": "Arts"
-    },
-    {
-      "id": "08",
-      "name": "All News"
-    }
-  ]
+  {
+    "id": "1",
+    "name": "English"
+  },
+  {
+    "id": "2",
+    "name": "Spanish"
+  },
+  {
+    "id": "3",
+    "name": "German"
+  },
+  {
+    "id": "4",
+    "name": "French"
+  },
+  {
+    "id": "5",
+    "name": "Italian"
+  },
+  {
+    "id": "6",
+    "name": "Russian"
+  },
+  {
+    "id": "7",
+    "name": "Greek"
+  }
+]

@@ -1,0 +1,207 @@
+[
+    {
+        "id": "001",
+        "category_id": "1",
+        "language": "English",
+        "Certificate": "Yes",
+        "exm": "10",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "author_name": "Rony",
+        "students": "70,521",
+        "love": "125",
+        "lesson": "98",
+        "price": "100",
+        "title": "Learn React JS Tutorial For Beginners",
+        "image_url": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "details": " Being the language of science, diplomacy, tourism, IT, the media industry, English bridges nations all over the world and contributes to progress. This is evidence of its lingua franca status. Do you want to travel anywhere in the world? English is here for you! English is one of the most widely spoken languages in the world. It is the official language in 55 countries, which include primarily the USA, the UK, Australia, and New Zealand. In 27 territories, English has the official status of the language used mainly for interactions with the government officials. This refers to Hong Kong, the Isle of Man, Puerto Rico, among many. Being a lingua franca language, it is spoken all over the world on almost all continents. It is spoken in European countries, in India, Pakistan, the Philippines, Nigeria, and others. English is the third most-spoken native language (after Chinese and Spanish) in the world. If we speak about native speakers, there are 360-400 million people worldwide. As for the number of people who learn English as a second language, this is about 750 million individuals, and 600 million learn it as a foreign language."
+        
+        
+    },
+    {
+        "id": "002",
+        "category_id": "1",
+        "language": "English",
+        "Certificate": "Yes",
+        "exm": "14",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "author_name": "Rony",
+        "students": "77,521",
+        "love": "1205",
+        "lesson": "104",
+        "title": "Learn React JS Tutorial For Advance",
+        "price": "180",
+        "image_url": "https://wallpapercave.com/wp/wp4657205.jpg",
+        "details": " According to the research made by the University of Lyon, Spanish is considered to be the easiest language to learn. No wonder it is ranked as the world's second widely spoken language after Chinese (Mandarin). Besides, it is the third language widely used in the net, after Chinese and English. Spanish is the official language in Spain Equatorial Guinea and Hispanic America (19 countries, among them are Argentina, Chile, Cuba, Mexico, Puerto Rico, Venezuela, etc.). Besides, Spanish is used as the official language in the United Nations, the European Union, the Community of Latin and Caribbean States, and other international organizations. Being spoken worldwide, it is the minority language of such countries as Andorra, Belize, Gibraltar, and the USA. Being such a popular language across the globe, it has about 577 million followers. Among them are 480 million native speakers, 75 million people speaking Spanish as a second language, and about 22 million"
+        
+    },
+    {
+        "id": "003",
+        "category_id": "2",
+        "language": "English",
+        "Certificate": "Yes",
+        "exm": "9",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "author_name": "Rony",
+        "students": "109,921",
+        "love": "1250",
+        "lesson": "55",
+        "title": "Techs HTML5 JS Tutorial For Newbies",
+        "price": "120",
+        "image_url": "https://wallpaper.dog/large/5502535.jpg",
+        "details": " Knowledge of German can open up a world of opportunities for job seekers, as well as for students who want to continue their education in such a way to get an advantage in the global economy. Learn the German language to discover a rich and interesting history narrated by the colorful and old-fashion architecture, palaces, castles, cathedrals, landscapes, forests, and mountains, delicious food and beer. is one of the major languages of the world. It is the second most widely spoken Germanic language after English. It is the official language for the following six countries, namely: Germany, Austria, Switzerland, Belgium, Luxembourg, and Liechtenstein. In addition to these German-speaking countries, it is also considered the official language in some regions, such as the Silesian Voivodeship and Opole Voivodeship in Poland, the Autonomous Province of South Tyrol in Italy, and Rio Grande do Sul in Brazil. German is the native language to almost 100 million people worldwide and the most widely spoken native language in the European Union. Moreover, about 5.6 million people speak German as their second language."
+        
+    },
+    {
+        "id": "004",
+        "category_id": "2",
+        "language": "English",
+        "Certificate": "Yes",
+        "exm": "10",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "author_name": "Rony",
+        "students": "70,521",
+        "love": "125",
+        "lesson": "98",
+        "title": " HTML5 JS Tutorial For Expert",
+
+        "price": "100",
+        "image_url": "https://free4kwallpapers.com/uploads/originals/2017/03/30/paris-france--wallpaper.jpg",
+        "details": " French is the language of Molière, Victor Hugo, Jean-Paul Sartre, Alain Delon, Edith Piaf, and Zinedine Zidane! Moreover, it’s the international language of fashion, cooking, theatre, visual arts, architecture, and dance. French is the fifth most widely spoken language in the world and the second most widely learned foreign language after English. It is the official language in 29 countries across different continents. Along with France, it’s widely used in Belgium, Canada, Monaco, Switzerland, Luxemburg, Chad, DR Congo, and Madagascar. About 76 million speakers consider French as their native language, and about 235 million speak it fluently. It is spoken as the first language in France, Quebec, Ontario, Belgium, Bern, Monaco, in some parts of the United States (New Hampshire, Louisiana, Vermont, and Maine), in northern Italy, and partly in Luxembourg."
+        
+    },
+    {
+        "id": "005",
+        "category_id": "3",
+        "language": "English",
+        "Certificate": "Yes",
+        "exm": "10",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "author_name": "Rony",
+        "students": "70,521",
+        "love": "125",
+        "lesson": "98",
+        "title": "Start PHP JS Tutorial For Beginner",
+        "price": "120",
+        "image_url": "https://blog.mystart.com/wp-content/uploads/MyTravel_Italy_569ffe433700452f1bbc5fbc-1170x780.jpeg",
+        "details": " If you are planning to visit Italy or read the great literary heritage like 'The Divine Comedy' by Dante in original, Italian is here for you! Besides Italy, the Italian language has its official status in such countries as Switzerland, Vatican City, San Marino, and some parts of Slovakia and Croatia. Outside Italy, it is also widely spoken in Albania and the USA. In addition, it is recognized in North and East Africa (as a consequence of colonization of Africa) and is spoken by people in Saudi Arabia. Italian is considered to be a Romance language that belongs to the Indo-European language family. Being a member of the same group as Portuguese, Romanian, Spanish, and French, Italian is considered to be the most romantic of them all. About 93 million people speak Italian worldwide: 69 million individuals in the EU speak it as their native language and 24 million learn Italian as their second language."
+        
+    },
+    {
+        "id": "006",
+        "category_id": "3",
+        "language": "English",
+        "Certificate": "Yes",
+        "exm": "10",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "author_name": "Rony",
+        "students": "70,521",
+        "love": "125",
+        "lesson": "98",
+        "title": "PHP Essential Tutorial",
+        "price": "120",
+        "image_url": "https://free4kwallpapers.com/uploads/originals/2018/07/26/kolomenskoyemoscowrussia-wallpaper.jpg",
+        "details": " Russian is one of the richest and most complex languages in the world. To understand it, one should first explore the Russian soul. And if you want to go into to space and become an astronaut, you have to know Russian! Nowadays, it’s a requirement for NASA candidates to speak this language. Russian is the second most widespread language on the Internet (after English). It is the most geographically widespread language in Eurasia and the largest native language in Europe. It is also one of the six official languages of the United Nations. It is official in the Russian Federation, Belarus, Kyrgyzstan, and Kazakhstan. Russian is widely used throughout the Baltic states, Central Asia, the Caucasus, and Eastern Europe. It is the most common of the Slavic languages. Russian is the native language for 147 million people in Russia, Belarus, and Ukraine, and about 113 million speak it as a second language. According to the number of native speakers, it is the fifth language in the world (after Arabic (4), Spanish (3), Chinese (2), and English (1))."
+        
+    },
+    {
+        "id": "007",
+        "category_id": "4",
+        "language": "English",
+        "Certificate": "Yes",
+        "exm": "10",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "author_name": "Rony",
+        "students": "70,521",
+        "love": "125",
+        "lesson": "98",
+        "title": "Techs HTML5 JS Tutorial For Newbies",
+        "price": "120",
+        "image_url": "https://wallpaperaccess.com/full/42003.jpg",
+        "details": " Who has never heard of Greek Mythology or read the Iliad? Greek is the best language to learn if you'd like to read these great legacy of literature in the original or to visit Greece to explore its treasures preserved over the centuries. Although, if you simply want to sharpen your brain and learn quite different alphabet, choose Greek. Greek in its modern form is the language that belongs to the Hellenic branch that is a part of the Indo-European family. It is the official language both in Greece and Cyprus. Outside of these countries, it is spoken by the Greek diasporas in Turkey, Italy, Romania, Armenia, Albania, and Ukraine. Totally, this language is spoken by 13.2 million people worldwide."
+        
+    },
+    {
+        "id": "08",
+        "category_id": "5",
+        "language": "English",
+        "Certificate": "Yes",
+        "exm": "10",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "author_name": "Rony",
+        "students": "70,521",
+        "love": "125",
+        "lesson": "98",
+        "title": "Start Java3 JS Tutorial For Adanceds",
+        "price": "120",
+        "image_url": "http://s1.picswalls.com/thumbs2/2014/08/08/turkey-background_020928173_176.jpg",
+        "details": " No matter whether you are going to travel to Turkey and see its breathtaking landscapes or you are planning to do business there, as this is a country with a rapidly growing economy, or you are going to learn a new language that is compared to the game “LEGO”, then Turkish is what you need right now! Turkish is widely spoken in Turkey and Cyprus where it has its official status and in some districts in Kosovo as well. Outside Turkey, the language is spoken in the countries that were formerly the part of the Ottoman Empire. Such countries include Serbia, Bulgaria, Iraq, Romania, among many. Along with that, Turkish diasporas exist in the USA, the UK, Germany, France, Belgium, Austria, Switzerland, and the Netherlands.Turkish is spoken by 88 million people throughout the world. This number includes 75.7 million native speakers and around 12 million of those who learn it as a second language."
+        
+    },
+    {
+        "id": "09",
+        "category_id": "9",
+        "language": "English",
+        "Certificate": "Yes",
+        "exm": "10",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "author_name": "Rony",
+        "students": "70,521",
+        "love": "125",
+        "lesson": "98",
+        "title": "Start Java3 JS Tutorial For Advanced",
+        "price": "120",
+        "image_url": "http://s1.picswalls.com/thumbs2/2014/08/08/turkey-background_020928173_176.jpg",
+        "details": " No matter whether you are going to travel to Turkey and see its breathtaking landscapes or you are planning to do business there, as this is a country with a rapidly growing economy, or you are going to learn a new language that is compared to the game “LEGO”, then Turkish is what you need right now! Turkish is widely spoken in Turkey and Cyprus where it has its official status and in some districts in Kosovo as well. Outside Turkey, the language is spoken in the countries that were formerly the part of the Ottoman Empire. Such countries include Serbia, Bulgaria, Iraq, Romania, among many. Along with that, Turkish diasporas exist in the USA, the UK, Germany, France, Belgium, Austria, Switzerland, and the Netherlands.Turkish is spoken by 88 million people throughout the world. This number includes 75.7 million native speakers and around 12 million of those who learn it as a second language."
+        
+    },{
+        "id": "010",
+        "category_id": "5",
+        "language": "English",
+        "Certificate": "Yes",
+        "exm": "10",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "author_name": "Rony",
+        "students": "70,521",
+        "love": "125",
+        "lesson": "98",
+        "title": "Start Java3 JS Tutorial For Adanceds",
+        "price": "120",
+        "image_url": "http://s1.picswalls.com/thumbs2/2014/08/08/turkey-background_020928173_176.jpg",
+        "details": " No matter whether you are going to travel to Turkey and see its breathtaking landscapes or you are planning to do business there, as this is a country with a rapidly growing economy, or you are going to learn a new language that is compared to the game “LEGO”, then Turkish is what you need right now! Turkish is widely spoken in Turkey and Cyprus where it has its official status and in some districts in Kosovo as well. Outside Turkey, the language is spoken in the countries that were formerly the part of the Ottoman Empire. Such countries include Serbia, Bulgaria, Iraq, Romania, among many. Along with that, Turkish diasporas exist in the USA, the UK, Germany, France, Belgium, Austria, Switzerland, and the Netherlands.Turkish is spoken by 88 million people throughout the world. This number includes 75.7 million native speakers and around 12 million of those who learn it as a second language."
+        
+    },
+    {
+        "id": "011",
+        "category_id": "6",
+        "language": "English",
+        "Certificate": "Yes",
+        "exm": "10",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "author_name": "Rony",
+        "students": "70,521",
+        "love": "125",
+        "lesson": "98",
+        "title": "Start Python JS Tutorial For Adanceds",
+        "price": "120",
+        "image_url": "http://s1.picswalls.com/thumbs2/2014/08/08/turkey-background_020928173_176.jpg",
+        "details": " No matter whether you are going to travel to Turkey and see its breathtaking landscapes or you are planning to do business there, as this is a country with a rapidly growing economy, or you are going to learn a new language that is compared to the game “LEGO”, then Turkish is what you need right now! Turkish is widely spoken in Turkey and Cyprus where it has its official status and in some districts in Kosovo as well. Outside Turkey, the language is spoken in the countries that were formerly the part of the Ottoman Empire. Such countries include Serbia, Bulgaria, Iraq, Romania, among many. Along with that, Turkish diasporas exist in the USA, the UK, Germany, France, Belgium, Austria, Switzerland, and the Netherlands.Turkish is spoken by 88 million people throughout the world. This number includes 75.7 million native speakers and around 12 million of those who learn it as a second language."
+        
+    },
+    {
+        "id": "012",
+        "category_id": "6",
+        "language": "English",
+        "Certificate": "Yes",
+        "exm": "10",
+        "author_img": "https://c4.wallpaperflare.com/wallpaper/487/320/851/tower-bridge-london-bridge-europe-wallpaper-preview.jpg",
+        "author_name": "Rony",
+        "students": "70,521",
+        "love": "125",
+        "lesson": "98",
+        "title": "Start Java3 JS Tutorial For Adanceds",
+        "price": "120",
+        "image_url": "http://s1.picswalls.com/thumbs2/2014/08/08/turkey-background_020928173_176.jpg",
+        "details": " No matter whether you are going to travel to Turkey and see its breathtaking landscapes or you are planning to do business there, as this is a country with a rapidly growing economy, or you are going to learn a new language that is compared to the game “LEGO”, then Turkish is what you need right now! Turkish is widely spoken in Turkey and Cyprus where it has its official status and in some districts in Kosovo as well. Outside Turkey, the language is spoken in the countries that were formerly the part of the Ottoman Empire. Such countries include Serbia, Bulgaria, Iraq, Romania, among many. Along with that, Turkish diasporas exist in the USA, the UK, Germany, France, Belgium, Austria, Switzerland, and the Netherlands.Turkish is spoken by 88 million people throughout the world. This number includes 75.7 million native speakers and around 12 million of those who learn it as a second language."
+        
+    }
+]
